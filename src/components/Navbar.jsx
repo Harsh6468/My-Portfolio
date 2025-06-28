@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import { AiOutlineMenu, AiOutlineClose } from "react-icons/ai";
 import { navLinks } from "../constant";
-import { li } from "framer-motion/client";
 
 
 export const Navbar = () => {
